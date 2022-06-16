@@ -1,4 +1,5 @@
 ---
+layout: slide
 title: "Salesforce Datorama"
 date: 2022-06-13
 ---
